@@ -1,16 +1,14 @@
 
 
-import Path from '../../../public/models/Finale Version 16.glb'
-import Path1 from '../../../public/textures/kda.mp4'
 export default [
     {
         name: "room",
         type: "glbModel",
-        path: Path,
+        path: "/models/Finale Version 16.glb",
     },
     {
         name: "screen",
         type: "videoTexture",
-        path: Path1,
+        path: "/public/textures/kda.mp4",
     },
 ];
