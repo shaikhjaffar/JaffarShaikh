@@ -2,11 +2,11 @@ export default [
     {
         name: "room",
         type: "glbModel",
-        path: "../../assets/models/Finale Version 16.glb",
+        path: "./models/Finale Version 16.glb",
     },
     {
         name: "screen",
         type: "videoTexture",
-        path: "../../assets/textures/kda.mp4",
+        path: "./textures/kda.mp4",
     },
 ];
